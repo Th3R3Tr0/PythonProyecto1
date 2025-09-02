@@ -1,2 +1,5 @@
 # PythonProyecto1
-Parry
+
+Grupo: CodeSeed
+
+Integrantes: Parry - 
